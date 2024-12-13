@@ -1,0 +1,1 @@
+# Implementation-of-linear-regression-model-to-predict-the-price-of-the-house
